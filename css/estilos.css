@@ -2,13 +2,13 @@ body
 {
   color: #333;
   text-align: center;
-  font-family: 'Raleway', sans-serif;
 }
 #Cabecera{
   background: #33A;
   box-shadow: 0px 2px 20px 0px rgba(0,0,0,0.5);
   color: white;
   font-weight: bold;
+  font-family: 'Merriweather', serif;
   margin: 0;
   padding: 0.5em;
 }
@@ -16,6 +16,7 @@ body
   margin: 0 0 0 1em;
   font-weight: normal;
   font-size: 0.8em;
+
 }
 #container{
   width: 70%;
@@ -26,4 +27,5 @@ body
 }
 #post{
   font-size: 20px;
+  font-family: 'Raleway', sans-serif;
 }
